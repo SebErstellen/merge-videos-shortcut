@@ -8,3 +8,7 @@ brew install ffmpeg
 ```
 
 https://www.icloud.com/shortcuts/a3b92e7e4328429885b0c303a55dc921
+
+Don't forget to check *Use as quick action*
+
+![Use as quick action](screenshot.png "screenshot")
