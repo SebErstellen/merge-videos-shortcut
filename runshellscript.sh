@@ -15,8 +15,8 @@ merged_file_name="$file_name_without_extension"_merged.$(echo "$1" | cut -f 2 -d
 
 rm list.txt
 
-for file in "$@"
-do
-rm "$file"
-echo "File $file deleted successfully."
-done
+# for file in "$@"
+# do
+# rm "$file"
+# echo "File $file deleted successfully."
+# done
