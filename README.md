@@ -7,7 +7,7 @@ You need to have ffmpeg installed.
 brew install ffmpeg
 ```
 
-https://www.icloud.com/shortcuts/a3b92e7e4328429885b0c303a55dc921
+https://www.icloud.com/shortcuts/bec7b053043c454588b188cf58739776
 
 Don't forget to check *Use as quick action*
 
